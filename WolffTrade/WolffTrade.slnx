@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="WolffTrade.OrderService.API/WolffTrade.OrderService.API.csproj" Id="33f6516e-84da-4864-8b24-065f9dd6215b" />
+  <Project Path="WolffTrade.OrderService.Application/WolffTrade.OrderService.Application.csproj" />
+  <Project Path="WolffTrade.OrderService.Domain/WolffTrade.OrderService.Domain.csproj" />
+  <Project Path="WolffTrade.OrderService.Infrastructure/WolffTrade.OrderService.Infrastructure.csproj" Id="55241985-3c4e-47f8-a4b1-0be5babac021" />
+</Solution>
